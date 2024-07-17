@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1230px;
+    margin: 0 auto;
+    padding: 0 15px;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 100%;
+    place-items: center;
+}
+
+.saved {
+    font-size: 25px;
+}
+
+.timer {
+    font-size: 100px;
+}
