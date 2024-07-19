@@ -1,14 +1,15 @@
 ## Work not Scroll
 I have started this project to help myself struggle with procrastination and useless scrolling in the Internet by visualizing the amount of wasted time.
-This is a simple stopwatch you can run when you want to waste time instead of working.
-I am thinking of developing the project in the future adding saving options and some filters to track the progress.
+So far this is a simple stopwatch you can run when you want to waste time instead of working.
+I am thinking of developing the project in the future adding some filters to track the progress.
 
 #Technologies
 - JavaScript
 - TypeScript
 - Vite
 - React
-- ReactHooks
+- ReactHooks (useState, useEffect, useRef, custom Hook)
+- localStorage
 - CSS, HTML
 
 #Available Scripts
