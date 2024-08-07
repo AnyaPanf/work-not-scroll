@@ -15,5 +15,5 @@ I am thinking of developing the project in the future adding some filters to tra
 #Available Scripts
 In the project directory, you can run:
 
-#npx vite
+#npx run dev
 Runs the app in the development mode. Open http://localhost:1573 to view it in your browser.
